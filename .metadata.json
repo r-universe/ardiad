@@ -1,14 +1,14 @@
 [
   {
-    "package": "DEoptim",
-    "oncran": true
-  },
-  {
     "package": "AdMit",
     "oncran": true
   },
   {
-    "package": "RiskPortfolios",
+    "package": "bayesGARCH",
+    "oncran": true
+  },
+  {
+    "package": "DEoptim",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "bayesGARCH",
+    "package": "RiskPortfolios",
     "oncran": true
   }
 ]
