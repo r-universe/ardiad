@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AdMit"]
 	path = AdMit
 	url = https://github.com/ardiad/admit
-	shallow = true
-	registered = true
 [submodule "bayesGARCH"]
 	path = bayesGARCH
 	url = https://github.com/ardiad/bayesgarch
-	shallow = true
-	registered = true
 [submodule "DEoptim"]
 	path = DEoptim
 	url = https://github.com/ardiad/deoptim
-	shallow = true
-	registered = true
 [submodule "PeerPerformance"]
 	path = PeerPerformance
 	url = https://github.com/ardiad/peerperformance
-	shallow = true
-	registered = true
 [submodule "RiskPortfolios"]
 	path = RiskPortfolios
 	url = https://github.com/ardiad/riskportfolios
-	shallow = true
-	registered = true
