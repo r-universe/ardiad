@@ -11,6 +11,9 @@
 [submodule "PeerPerformance"]
 	path = PeerPerformance
 	url = https://github.com/ardiad/peerperformance
+[submodule "RSDC"]
+	path = RSDC
+	url = https://github.com/ardiad/rsdc
 [submodule "RiskPortfolios"]
 	path = RiskPortfolios
 	url = https://github.com/ardiad/riskportfolios
