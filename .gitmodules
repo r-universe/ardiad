@@ -20,6 +20,9 @@
 [submodule "bayesGARCH"]
 	path = bayesGARCH
 	url = https://github.com/ardiad/bayesgarch
+[submodule "smqf"]
+	path = smqf
+	url = https://github.com/ardiad/smqf-package
 [submodule "spantest"]
 	path = spantest
 	url = https://github.com/ardiad/spantest
